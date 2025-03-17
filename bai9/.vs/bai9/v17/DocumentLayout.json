@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\baitapcodegym\\bai9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABCFBE23-3E9D-4D24-869C-7E55D677C8F0}|bai9\\bai9.csproj|d:\\baitapcodegym\\bai9\\bai9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABCFBE23-3E9D-4D24-869C-7E55D677C8F0}|bai9\\bai9.csproj|solutionrelative:bai9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\baitapcodegym\\bai9\\bai9\\Program.cs",
+              "RelativeDocumentMoniker": "bai9\\Program.cs",
+              "ToolTip": "D:\\baitapcodegym\\bai9\\bai9\\Program.cs",
+              "RelativeToolTip": "bai9\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwCQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T11:02:29.842Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
