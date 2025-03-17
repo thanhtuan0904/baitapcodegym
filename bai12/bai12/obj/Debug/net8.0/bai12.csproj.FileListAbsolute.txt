@@ -1,0 +1,15 @@
+D:\baitapcodegym\bai12\bai12\bin\Debug\net8.0\bai12.exe
+D:\baitapcodegym\bai12\bai12\bin\Debug\net8.0\bai12.deps.json
+D:\baitapcodegym\bai12\bai12\bin\Debug\net8.0\bai12.runtimeconfig.json
+D:\baitapcodegym\bai12\bai12\bin\Debug\net8.0\bai12.dll
+D:\baitapcodegym\bai12\bai12\bin\Debug\net8.0\bai12.pdb
+D:\baitapcodegym\bai12\bai12\obj\Debug\net8.0\bai12.GeneratedMSBuildEditorConfig.editorconfig
+D:\baitapcodegym\bai12\bai12\obj\Debug\net8.0\bai12.AssemblyInfoInputs.cache
+D:\baitapcodegym\bai12\bai12\obj\Debug\net8.0\bai12.AssemblyInfo.cs
+D:\baitapcodegym\bai12\bai12\obj\Debug\net8.0\bai12.csproj.CoreCompileInputs.cache
+D:\baitapcodegym\bai12\bai12\obj\Debug\net8.0\bai12.sourcelink.json
+D:\baitapcodegym\bai12\bai12\obj\Debug\net8.0\bai12.dll
+D:\baitapcodegym\bai12\bai12\obj\Debug\net8.0\refint\bai12.dll
+D:\baitapcodegym\bai12\bai12\obj\Debug\net8.0\bai12.pdb
+D:\baitapcodegym\bai12\bai12\obj\Debug\net8.0\bai12.genruntimeconfig.cache
+D:\baitapcodegym\bai12\bai12\obj\Debug\net8.0\ref\bai12.dll
