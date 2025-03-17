@@ -1,0 +1,15 @@
+D:\baitapcodegym\bai14\bai14\bin\Debug\net8.0\bai14.exe
+D:\baitapcodegym\bai14\bai14\bin\Debug\net8.0\bai14.deps.json
+D:\baitapcodegym\bai14\bai14\bin\Debug\net8.0\bai14.runtimeconfig.json
+D:\baitapcodegym\bai14\bai14\bin\Debug\net8.0\bai14.dll
+D:\baitapcodegym\bai14\bai14\bin\Debug\net8.0\bai14.pdb
+D:\baitapcodegym\bai14\bai14\obj\Debug\net8.0\bai14.GeneratedMSBuildEditorConfig.editorconfig
+D:\baitapcodegym\bai14\bai14\obj\Debug\net8.0\bai14.AssemblyInfoInputs.cache
+D:\baitapcodegym\bai14\bai14\obj\Debug\net8.0\bai14.AssemblyInfo.cs
+D:\baitapcodegym\bai14\bai14\obj\Debug\net8.0\bai14.csproj.CoreCompileInputs.cache
+D:\baitapcodegym\bai14\bai14\obj\Debug\net8.0\bai14.sourcelink.json
+D:\baitapcodegym\bai14\bai14\obj\Debug\net8.0\bai14.dll
+D:\baitapcodegym\bai14\bai14\obj\Debug\net8.0\refint\bai14.dll
+D:\baitapcodegym\bai14\bai14\obj\Debug\net8.0\bai14.pdb
+D:\baitapcodegym\bai14\bai14\obj\Debug\net8.0\bai14.genruntimeconfig.cache
+D:\baitapcodegym\bai14\bai14\obj\Debug\net8.0\ref\bai14.dll

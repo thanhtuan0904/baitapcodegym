@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\bai6\\",
+  "WorkspaceRootPath": "D:\\baitapcodegym\\bai6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{06A3DF4D-7156-4AF0-9702-0241ED54C956}|bai6\\bai6.csproj|d:\\bai6\\bai6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{06A3DF4D-7156-4AF0-9702-0241ED54C956}|bai6\\bai6.csproj|d:\\baitapcodegym\\bai6\\bai6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{06A3DF4D-7156-4AF0-9702-0241ED54C956}|bai6\\bai6.csproj|solutionrelative:bai6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\bai6\\bai6\\Program.cs",
+              "DocumentMoniker": "D:\\baitapcodegym\\bai6\\bai6\\Program.cs",
               "RelativeDocumentMoniker": "bai6\\Program.cs",
-              "ToolTip": "D:\\bai6\\bai6\\Program.cs",
+              "ToolTip": "D:\\baitapcodegym\\bai6\\bai6\\Program.cs",
               "RelativeToolTip": "bai6\\Program.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAYwGYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-14T12:18:22.28Z",
               "EditorCaption": ""

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\bai6\\bai6\\bai6.csproj",
+      "projectUniqueName": "D:\\baitapcodegym\\bai6\\bai6\\bai6.csproj",
       "projectName": "bai6",
-      "projectPath": "D:\\bai6\\bai6\\bai6.csproj",
+      "projectPath": "D:\\baitapcodegym\\bai6\\bai6\\bai6.csproj",
       "packagesPath": "C:\\Users\\Laptop K1\\.nuget\\packages\\",
-      "outputPath": "D:\\bai6\\bai6\\obj\\",
+      "outputPath": "D:\\baitapcodegym\\bai6\\bai6\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

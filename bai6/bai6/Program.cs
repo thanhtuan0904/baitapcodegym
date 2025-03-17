@@ -26,7 +26,7 @@ class Program
         if (num == 0)
             return "không";
 
-        string result = "";
+        string result = ""; // lưu kqua
         int tram = num / 100;
         int chuc = (num % 100) / 10;
         int donVi = num % 10;
@@ -45,7 +45,7 @@ class Program
                 case 8: result += "tám trăm"; break;
                 case 9: result += "chín trăm"; break;
             }
-            if (num % 100 != 0)
+            if (num % 100 != 0) //Nếu số không phải là số tròn trăm thêm dấu cách để chuẩn bị ghép tiếp
                 result += " ";
         }
 
